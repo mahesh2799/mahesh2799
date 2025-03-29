@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mahesh2799/maheshd2799/blob/main/Screenshot%202025-03-28%20202426.png?raw=true" alt="Hi, I'm Mahesh Dadheech" />
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Screenshot%202025-03-28%20202426.png" />
 </p>
 
 ### 🔍 About Me

@@ -189,8 +189,7 @@ Jupyter Notebooks, Selenium, Git/GitHub, Agile (Scrum/Kanban), CI/CD Concepts
 ### 🌡️ - [✅ Economic Impacts of Climate Shifts](https://github.com/mahesh2799/Economic-Impacts-Of-Climate-Shifts)
 
 
-Project Overview
--This project analyzes and predicts the socio-economic impact of disasters in Canada using big data techniques. By integrating weather conditions with economic indicators such as house prices, food prices, inflation rates, and casualty trends, we identify patterns and correlations to inform disaster preparedness strategies.
+This project analyzes and predicts the socio-economic impact of disasters in Canada using big data techniques. By integrating weather conditions with economic indicators such as house prices, food prices, inflation rates, and casualty trends, we identify patterns and correlations to inform disaster preparedness strategies.
 
 Key Features
 -	Big Data Integration: Collected disaster-related data from Hadoop, MongoDB, MariaDB, Snowflake, and Azure SQL Server Express for large-scale analysis.

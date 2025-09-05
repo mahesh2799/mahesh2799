@@ -280,8 +280,7 @@ Skills Gained
 -	Python & Libraries: TensorFlow/Keras, NumPy, OpenCV, Matplotlib, and Scikit-learn.
 
 <p align="center">
-  <video src="https://github.com/mahesh2799/mahesh2799/blob/main/DEEP%20lEARNING.mp4" width="600" controls>
-  </video>
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/ezgif-18488561037d68.gif" width="600" />
 </p>
 
 ### 🌦️ [Weather Prediction model](https://github.com/mahesh2799/Weather-Prediction-Model)

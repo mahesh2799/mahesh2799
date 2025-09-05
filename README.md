@@ -279,6 +279,10 @@ Skills Gained
 -	Performance Evaluation & Model Selection: Accuracy benchmarking across multiple architectures.
 -	Python & Libraries: TensorFlow/Keras, NumPy, OpenCV, Matplotlib, and Scikit-learn.
 
+<p align="center">
+  <video src="https://github.com/mahesh2799/mahesh2799/blob/main/DEEP%20lEARNING.mp4" width="600" controls>
+  </video>
+</p>
 
 ### 🌦️ [Weather Prediction model](https://github.com/mahesh2799/Weather-Prediction-Model)
 

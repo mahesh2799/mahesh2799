@@ -250,8 +250,8 @@ Skills Gained
 -	Data Cleaning & Preprocessing: Handling inconsistencies and preparing datasets for analysis.
 
 <p align="center">
-  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Screenshot%20(18).png)" width="400" />
-  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Screenshot%20(19).png)" width="400" />
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Screenshot%20(18).png" width="400" />
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Screenshot%20(19).png" width="400" />
 </p>
 
 ### 🧠 [Traffic Sign Recognition](https://github.com/mahesh2799/Traffic-Sign-Recognition-Model)

@@ -203,8 +203,12 @@ Skills Gained
 -	Data Engineering: ETL pipeline development, data cleaning, and preprocessing.
 -	Machine Learning & Analytics: Forecasting economic trends using disaster-related data.
 -	Data Visualization & Business Intelligence: Power BI dashboards and data storytelling.
--	Problem-Solving & Critical Thinking: Handling data inconsistencies and deriving meaningful insights. 
-
+-	Problem-Solving & Critical Thinking: Handling data inconsistencies and deriving meaningful insights.
+  
+<p align="center">
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/data%20flow.jpg" width="400" />
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Dashboard.jpg" width="400" />
+</p>
 
 ### 🤖 [End-to-End Machine Learning Model](https://github.com/mahesh2799/EndToEndMLProject)
 
@@ -295,6 +299,10 @@ Skills Gained
 -	Model Optimization: Implementing Dropout for regularization and using Keras Tuner for hyperparameter tuning.
 -	Python & Libraries: TensorFlow/Keras, NumPy, Pandas, Matplotlib, and Scikit-learn.
 
+<p align="center">
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Actual%20vs%20predicted%20.png" width="400" />
+  <img src="https://github.com/mahesh2799/mahesh2799/blob/main/Heatmap.png" width="400" />
+</p>
 
 </details>
 

@@ -36,7 +36,7 @@ At Semper8, I was deeply involved in developing an innovative, AI-powered Human 
 
 - **Speech-to-Text Intelligence**: Integrated and fine-tuned a Wav2Vec2-based speech recognition model, significantly improving transcription accuracy for candidate video responses.  
 - **Emotion Recognition Pipeline**: Built and deployed a custom LSTM-based emotion identification model to assess vocal tone and emotional sentiment, enabling HR teams to better understand candidate personality traits during screening.  
-- **Smart Video-to-Insight System**: Designed an end-to-end pipeline to extract, process, and analyze video/audio data stored in MongoDB, storing outputs as structured insights mapped to candidates and job IDs.  
+- **Smart Video-to-Insight System**: Designed an end-to-end pipeline to extract, process, and analyze candidate video/audio data stored in MongoDB, producing structured insights mapped to candidate/job IDs.  
 - **Semantic Matching Engine**: Contributed to building a semantic vector search system for intelligent candidate-job matching using embeddings and OpenAI APIs.  
 - **Cloud & Data Engineering**: Built PySpark-based ETL workflows to handle large-scale unstructured data with seamless integration across MongoDB, MariaDB, and Hadoop ecosystems, all deployed in an Azure environment.  
 - **Agile Collaboration & Delivery**: Delivered key project milestones, wrote technical documentation, and demoed AI pipelines to cross-functional teams and stakeholders.
